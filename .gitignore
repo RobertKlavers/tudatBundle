@@ -54,6 +54,7 @@ Documentation/
 doc/doxygen/html/
 doc/doxygen/latex/
 build*/
+cmake-build-*/
 bin/
 lib/
 boost/
@@ -68,3 +69,4 @@ boost/
 *.~?~
 *.save
 .DS_Store
+.idea/
